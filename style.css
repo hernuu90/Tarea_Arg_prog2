@@ -1,0 +1,22 @@
+.card-img{
+    height: 15rem;
+
+}
+
+.col img{
+    height: 50%;
+}
+
+.card__txt, .col__txt{
+    font-family: fantasy;
+    font-size: medium;
+}
+
+.nube{
+    height: 7%;
+    width: 7%;
+}
+
+.footer__final{
+    text-align: center;
+}
